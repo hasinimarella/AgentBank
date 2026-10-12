@@ -95,9 +95,12 @@ This diagram represents the high-level request flow. The exact agent selection, 
 
 Add any additional AI models, frameworks, databases, or APIs only if they are actually used in your implementation.
 
+## Architecture and Approach
+<img width="1312" height="1199" alt="AgentBank Architecture Workflow Diagram" src="https://github.com/user-attachments/assets/0b2677ab-23bd-4939-b941-d2f8880070e7" />
+
+
 ## 🖥️ 7. Application Screenshots
 
-Screenshots of the running application will help readers understand the interface without installing the project.
 
 ### Home Page
 
@@ -110,9 +113,6 @@ Screenshots of the running application will help readers understand the interfac
 <img width="1447" height="756" alt="Screenshot 2026-10-12 152458" src="https://github.com/user-attachments/assets/658f200f-8f97-4951-aaa1-1466f76bf8da" />
 <img width="1917" height="912" alt="Screenshot 2026-10-12 152424" src="https://github.com/user-attachments/assets/3f4090cc-8b41-4379-a9e4-aca4060da760" />
 <img width="1407" height="811" alt="Screenshot 2026-10-12 152714" src="https://github.com/user-attachments/assets/a56df563-f43d-4c77-ba18-5be04051fc29" />
-
-
-
 
 
 
