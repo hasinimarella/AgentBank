@@ -115,7 +115,7 @@ Screenshots of the running application will help readers understand the interfac
 
 <img width="1407" height="811" alt="image" src="https://github.com/user-attachments/assets/7b9e058b-82f9-46ed-b958-1bc6293fe0b2" />
 
-# This are some of the use-cases that are tested for the basic amount of reference to understand the architecture of the syte
+### Note: This are some of the use-cases that are tested for the basic amount of reference to understand the architecture of the syte
 
 ## 🚀 8. Installation and Execution
 
